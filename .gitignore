@@ -1,0 +1,11 @@
+www/*
+
+data/*/*
+logs/*/*
+
+/.idea
+/.vscode
+*.env
+
+!.gitignore 
+!.gitkeep
